@@ -1,2 +1,2 @@
 def do_something(number):
-    pass
+    return 22 + number
