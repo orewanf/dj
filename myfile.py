@@ -3,7 +3,7 @@
 
 def add_two_numbers(a, b):
     """Adds x and y."""
-    addition = a + b
+    addition = 0 + b
     return addition
 
 if __name__ == '__main__':
